@@ -17,8 +17,8 @@
 
 
 
-* 🔭 I’m currently working on testApp (Golang, React) 
-* 🌱 I’m currently learning backend in golang, and React library
+* 🔭 I’m currently working on Trackit (Android (kotlin)) 
+* 🌱 I’m currently learning Native mobile development in kotlin
 
 ---
 ### :fire: My Stats :
