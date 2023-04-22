@@ -13,12 +13,7 @@
 &style=flat-square&color=blue" alt=""/>
 </div>
 
-#### My name is Nurlan, and i am 2 course CS student, currently i position myself as a junior fullstack developer , and would like to cooperate with you to gain knowledge and experience 
-
-
-
-* 🔭 I’m currently working on Trackit (Android (kotlin)) 
-* 🌱 I’m currently learning Native mobile development in kotlin
+#### My name is Nurlan, and i am 2 course CS student, currently i position myself as a junior android kotlin developer , and would like to cooperate with you to gain knowledge and experience 
 
 ---
 ### :fire: My Stats :
